@@ -26,7 +26,7 @@ costruiti durante il mio percorso come sviluppatore.
 ## 🔗 Risorse collegate
 
 - 🌐 [Il Viaggio del Programmatore](https://www.ilviaggiodelprogrammatore.com)
-- 📖 [Pagina del mazzo sul sito](https://www.ilviaggiodelprogrammatore.com/blog/mindset-section/risorse-anki-csharp.html)
+- 📖 [Pagina del mazzo sul sito](https://www.ilviaggiodelprogrammatore.com/risorse/risorse-anki-csharp.html)
 
 ---
 
