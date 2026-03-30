@@ -31,7 +31,7 @@ Risultato? **Nessuno scroll orizzontale su smartphone.** Leggi il codice perfett
 ### **Opzione 1: Il metodo più veloce (.apkg)**
 
 1. Scarica [Anki](https://apps.ankiweb.net) su PC oppure [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki) su Android.  
-2. Scarica il file .apkg dalla sezione [Releases](http://docs.google.com/releases).  
+2. Scarica il file .apkg dalla sezione [Releases](https://github.com/Mugen85/anki-mazzi/releases).  
 3. Fai doppio clic sul file scaricato — Anki lo importa automaticamente.  
 4. Sincronizza il tuo account per avere le carte anche sul telefono e studia 10 minuti al giorno 🚀
 
