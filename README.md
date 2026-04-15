@@ -57,4 +57,10 @@ Se trovi un errore, o se vuoi aggiungere una flashcard su un design pattern o un
 
 *«Il software è come la meccanica: se l'architettura è sbagliata, puoi stringere i bulloni quanto vuoi, ma prima o poi la guarnizione cede. Studia i fondamenti.»*
 
+## ☕ Supportami con un caffè
+
+Se questa risorsa ti è utile o ti ha ispirato, considera di offrirmi un caffè!
+
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/wildmak)
+
 Fatto con ❤️ da [Marco Morello](https://github.com/Mugen85)
