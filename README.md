@@ -12,13 +12,13 @@ La memoria umana è come un motore: se non la fai girare, si ingolfa. Questo maz
 
 ## **📦 Mazzi disponibili**
 
-| Mazzo | Carte | Argomenti |
-| :---- | :---- | :---- |
-| **C\# Completo** | 215 | Basi, OOP, Metodi, Collezioni, LINQ, Async, Entity Framework, MAUI, Design Pattern, Testing, Web API, Architettura, Microservizi, Blazor, Performance. |
+| **Mazzo** | **Carte** | **Argomenti** |
+
+| **C\# Italiano** | 286 | Basi, OOP, LINQ, Async, EF Core, MAUI, Web API, Microservizi, Blazor, Performance, Clean Architecture, DDD, Principi SOLID e I Pilastri dei Maestri. |
 
 ## **🏷️ Argomenti coperti (Tags)**
 
-Basi Controllo del flusso Metodi OOP Interfacce Generics Collezioni LINQ Async/Await Gestione errori Entity Framework Design Pattern Clean Architecture MAUI Web API Testing xUnit Moq SQL C\# Avanzato Microservizi Blazor C\# 12+ Performance
+Basi Controllo del flusso OOP Collezioni LINQ Async/Await Entity Framework Design Pattern Clean Architecture MAUI Web API Testing xUnit Microservizi Blazor Performance Colloqui Senior I Pilastri dei Maestri DDD
 
 ## **📱 Mobile-First (Zero Scroll Orizzontale)**
 
@@ -31,7 +31,7 @@ Risultato? **Nessuno scroll orizzontale su smartphone.** Leggi il codice perfett
 ### **Opzione 1: Il metodo più veloce (.apkg)**
 
 1. Scarica [Anki](https://apps.ankiweb.net) su PC oppure [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki) su Android.  
-2. Scarica il file .apkg dalla sezione [Releases](https://github.com/Mugen85/anki-mazzi/releases).  
+2. Scarica il file .apkg dalla sezione [Releases](http://docs.google.com/releases).  
 3. Fai doppio clic sul file scaricato — Anki lo importa automaticamente.  
 4. Sincronizza il tuo account per avere le carte anche sul telefono e studia 10 minuti al giorno 🚀
 
@@ -44,7 +44,7 @@ Risultato? **Nessuno scroll orizzontale su smartphone.** Leggi il codice perfett
 
 ## **🔗 Risorse collegate**
 
-* 🌐 [Il Viaggio del Programmatore \- Blog](https://www.ilviaggiodelprogrammatore.com/blog.html)  
+* 🌐 [Il Viaggio del Programmatore \- Blog](https://www.ilviaggiodelprogrammatore.com)  
 * 📖 [Pagina ufficiale del mazzo sul sito](https://www.ilviaggiodelprogrammatore.com/risorse/risorse-anki-csharp.html)
 
 ## **🤝 Contribuire**
@@ -57,4 +57,4 @@ Se trovi un errore, o se vuoi aggiungere una flashcard su un design pattern o un
 
 *«Il software è come la meccanica: se l'architettura è sbagliata, puoi stringere i bulloni quanto vuoi, ma prima o poi la guarnizione cede. Studia i fondamenti.»*
 
-Fatto con ❤️ da [Marco Morello](https://www.linkedin.com/in/marco-morello-b43b2a108)
+Fatto con ❤️ da [Marco Morello](https://github.com/Mugen85)
