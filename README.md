@@ -14,7 +14,7 @@ La memoria umana è come un motore: se non la fai girare, si ingolfa. Questo maz
 
 | **Mazzo** | **Carte** | **Argomenti** |
 
-| **C\# Completo** | 307 | Basi, OOP, LINQ, Async, EF Core, MAUI, Web API, Microservizi, Blazor, Performance, Clean Architecture, DDD, Principi SOLID, Shift-Left Testing e I Pilastri dei Maestri. |
+| **C\# Completo** | 327 | Basi, OOP, LINQ, Async, EF Core, MAUI, Web API, Microservizi, Blazor, Performance, Clean Architecture, DDD, Principi SOLID, Shift-Left Testing, I Pilastri dei Maestri e Logica Pratica Quotidiana. |
 
 ## **🏷️ Argomenti coperti (Tags)**
 
