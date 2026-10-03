@@ -32,7 +32,7 @@ Niente teoria fine a sé stessa.
 
 | Mazzo                  |   Carte | Argomenti                                                                                                                                                                                                                                                         |
 | ---------------------- | ------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **C# & .NET Completo** | **347** | Basi, controllo del flusso, OOP, collezioni, LINQ, Async/Await, Entity Framework Core, MAUI, Web API, Microservizi, Blazor, Performance, Clean Architecture, DDD, Design Pattern, SOLID, Testing, Shift-Left Testing, I Pilastri dei Maestri e Pratica Quotidiana |
+| **C# & .NET Completo** | **400** | Basi, controllo del flusso, OOP, collezioni, LINQ, Async/Await, Entity Framework Core, MAUI, Web API, Microservizi, Blazor, Performance, Clean Architecture, DDD, Design Pattern, SOLID, Testing, Shift-Left Testing, I Pilastri dei Maestri e Pratica Quotidiana |
 
 ### 📚 Struttura del mazzo
 
